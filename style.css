@@ -1,0 +1,120 @@
+body {
+  font-family: "Lato","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+
+a {
+  color: #052133;
+  text-decoration: none;
+  line-height: inherit;
+}
+
+a:hover {
+  color: #0298f5;
+}
+.hero {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 6em;
+  background: url('https://hrhq.squarespace.com/assets/images/school-working@2x.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.hero-title {
+  font-size: 3em;
+  font-weight: 300;
+  line-height: 1.5em;
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  margin: 8%;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.logo {
+  float: left;
+  padding: 0.5em 0;
+  width: 160px;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  z-index: 100;
+  height: 60px;
+  padding: 0 0 0 1em;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.nav-list {
+  float: right;
+  list-style: none;
+  margin: 0.6em 0;
+}
+
+.nav-list-item {
+  display: inline-block;
+  padding: 0.5em;
+}
+
+.nav-container {
+  padding: 0 1em;
+}
+
+.clearfix {
+  overflow: hidden;
+  zoom: 1;
+}
+
+.first {
+  position: relative;
+  top: 450px;
+  padding: 1em;
+}
+
+.col4 {
+  float: left;
+  width: 33%;
+}
+
+.box-highlight {
+  background: #fff;
+  padding: 2em;
+  margin: 1em;
+  height: 180px;
+  text-align: center;
+  box-shadow: 1px 2px 2px #eee;
+  box-sizing: border-box;
+}
+
+.box-title {
+  font-size: 3em;
+  line-height: 0;
+  font-weight: 400;
+}
+
+.box-title-stars {
+  font-size: 2em;
+  line-height: 0;
+  font-weight: 400;
+}
+
+.box-small {
+  font-size: 0.7em;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.box {
+  padding: 1em 1.5em;
+  margin: 0;
+  line-height: 1.5em;
+  font-weight: 300;
+}

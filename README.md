@@ -3,10 +3,11 @@
 ## Introduction
 This front page redesign came about as an idea for work during an after hours front-end hackathon at Hack Reactor. We decided to approach the project from both a visual and ux/information design standpoint, curious to see how much we could accomplish in just one-and-a-half hours. Obviously, less than two hours of work don't make for a completed redesign, but the direction and mood of our design are things that are easily carried forward.
 
+Here's the original page: 
 ![The original look of the Hack Reactor home page](/images/hack-reactor-front-page-feb-2015.png)
 
 ## Visual approach
-* HERO: The over-emphasis of the hero section of the front page. The image used in the original lacked personality and warmth, and was very dark. The overall impression was a stark, looming one.
+* HERO: The over-emphasis of the hero section of the front page. The image used in the original lacked personality and warmth, and was very dark. The overall impression was a stark, looming one. We chose a different image to feature on the front page (found elsewhere on the original site). The new image shows students white boarding. This is a far more active, engaging, and inviting picture, that actually connects with what the school actually does. The original image was too abstract for that. From a brand perspective, we felt this was a much better choice. From a visual perspective, the image provided many more medium tones and thus did not over-dominate the rest of the content on the page.
 
 * NAV: The under-emphasis of the navigation bar at the top of the page. The white navigation bar actually served to emphasize the dark image dominating the page, rather than the navigation elements.
 

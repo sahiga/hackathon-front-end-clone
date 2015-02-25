@@ -37,6 +37,7 @@ a:hover {
 
 .logo {
   float: left;
+  margin-left: 5em;
   padding: 0.5em 0;
   width: 160px;
 }
@@ -57,6 +58,7 @@ header {
   float: right;
   list-style: none;
   margin: 0.6em 0;
+  margin-right: 5em;
 }
 
 .nav-list-item {
@@ -66,6 +68,10 @@ header {
 
 .nav-container {
   padding: 0 1em;
+}
+
+.nav-container .pull{
+  display: none;
 }
 
 .clearfix {

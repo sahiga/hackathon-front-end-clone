@@ -118,3 +118,20 @@ header {
   line-height: 1.5em;
   font-weight: 300;
 }
+
+.apply{
+  display: block;
+  position: absolute;
+  background-color: blue;
+  z-index: 10;
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+  text-align: center; 
+}
+
+.smaller{
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+}

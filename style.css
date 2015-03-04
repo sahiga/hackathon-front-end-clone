@@ -37,6 +37,7 @@ a:hover {
 
 .logo {
   float: left;
+  margin-left: 3em;
   padding: 0.5em 0;
   width: 160px;
 }
@@ -57,6 +58,7 @@ header {
   float: right;
   list-style: none;
   margin: 0.6em 0;
+  margin-right: 3em;
 }
 
 .nav-list-item {
@@ -64,8 +66,32 @@ header {
   padding: 0.5em;
 }
 
+.nav-list-item a {
+  font-size: 1.2em;
+}
+
+.nav-list-item .button-action {
+  margin-left: 0.8em;
+  font-family: 'Cabin', sans-serif;
+  padding: 0.5em;
+  padding-left: 0.7em;
+  padding-right: 0.7em;
+  border-radius: 3px;
+  color: #E6F2F9;
+  background-color: #0289DC;
+}
+
+.nav-list-item .button-action:hover {
+  background-color: #027AC4;
+}
+
+
 .nav-container {
   padding: 0 1em;
+}
+
+.nav-container .pull{
+  display: none;
 }
 
 .clearfix {
@@ -90,7 +116,7 @@ header {
   margin: 1em;
   height: 180px;
   text-align: center;
-  box-shadow: 1px 2px 2px #eee;
+  box-shadow: 1px 2px 2px #BEBEC1;
   box-sizing: border-box;
 }
 
